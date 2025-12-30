@@ -1,61 +1,42 @@
 #EXTM3U
-#PLAYLIST:Tv
+#PLAYLIST:TV
 #EXTINF:-1 tvg-id="BBC Top Gear" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",BBC Top Gear
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="00s Replay" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",00s Replay
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
-
 #EXTINF:-1 tvg-id="FIFA+ United States (720p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",FIFA+ United States (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FX TV 1" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",FX TV 1
 https://fxtvhls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="MoviePlus (576p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MoviePlus (576p)
 http://202.164.50.194:8000/play/a03n/index.m3u8
-
 #EXTINF:-1 tvg-id="Movies Now (1080p) (576p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Movies Now (1080p)
 http://163.61.227.29:8000/play/a01y/index.m3u8
-
 #EXTINF:-1 tvg-id="Movies Thriller (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-
 #EXTINF:-1 tvg-id="MovieSphere (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere (1080p)
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MovieSphere2 (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere2 (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MovieSphere by Lionsgate" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere by Lionsgate
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41f0c8e5-55e6-4740-a854-15ac608b8c65
-
 #EXTINF:-1 tvg-id="MovieSphere2 by Lionsgate" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere2 by Lionsgate
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
-
 #EXTINF:-1 tvg-id="Pluto TV Action Movies" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Pluto TV Action Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3c2e4823db00072788ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c110a2fa-daa4-4051-944a-5705842fcc96
-
 #EXTINF:-1 tvg-id="Pluto TV Comedy" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3d24b8e02600071fa296/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d24-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eac25957-ab7a-4358-b0cd-9e596b2f1a6f
-
 #EXTINF:-1 tvg-id="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Pluto TV Crime Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
-
 #EXTINF:-1 tvg-id="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Pluto TV Fantastic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2
-
 #EXTINF:-1 tvg-id="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Pluto TV Thrillers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562
-
 #EXTINF:-1 tvg-id="Rakuten Top Movies UK (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Rakuten Top Movies UK (1080p)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-
 #EXTINF:-1 tvg-id="Rakuten TV Action Movies UK (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Rakuten TV Action Movies UK (1080p)
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-
 #EXTINF:-1 tvg-id="Rakuten TV Comedy Movies UK (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Rakuten TV Comedy Movies UK (1080p)
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Star Sports Select 2 HD
 http://66.102.120.18:8000/play/a06x/index.m3u8
