@@ -1,0 +1,45 @@
+#EXTM3U
+#PLAYLIST:Tv
+#EXTINF:-1 tvg-id="BBC Top Gear" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",BBC Top Gear
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="00s Replay" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",00s Replay
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
+
+#EXTINF:-1 tvg-id="FIFA+ United States (720p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX TV 1" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",FX TV 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MoviePlus (576p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MoviePlus (576p)
+http://202.164.50.194:8000/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-id="Movies Now (1080p) (576p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Movies Now (1080p)
+http://163.61.227.29:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="Movies Thriller (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Movies Thriller (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere (1080p)
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere2 (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere2 (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere by Lionsgate" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere by Lionsgate
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41f0c8e5-55e6-4740-a854-15ac608b8c65
+
+#EXTINF:-1 tvg-id="MovieSphere2 by Lionsgate" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere2 by Lionsgate
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
+
+#EXTINF:-1 tvg-id="MovieSphere2 (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere2 (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere2 (1080p)" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",MovieSphere2 (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+
+
+
+
